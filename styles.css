@@ -1,3 +1,16 @@
-.ColumnaMarvin {
-    background: red;
+.lista1 li {
+    display: inline;
+    margin: 20px;
 }
+
+.lista1 input {
+    margin-top: 25px;
+    margin-right: 20px;
+    border-radius: 2px;
+    float: right;
+}
+
+.li {
+    float: right
+}
+
